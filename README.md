@@ -8,3 +8,7 @@ https://towardsdatascience.com/cutting-edge-face-recognition-is-complicated-thes
 ## 2. Categorial Encoding
 Several different type of categorial encoding and their pros/cons
 http://pbpython.com/categorical-encoding.html
+
+## 3. Gradient Boosting
+Introduction to the idea of "Gradient Boosting"
+https://www.youtube.com/watch?v=sRktKszFmSk
